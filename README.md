@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 
 <div style="align: center" align=center>
-<img align="middle" alt="GIF" src="good-luck.gif" width="300px"/>
+<img align="middle" alt="GIF" src="s1.gif" width="300px"/>
 </div>
