@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center"><b>Cooooding</b><img src="work.gif" width="60px"></h2>
+<h2 align="center"><b>Fortunately, this is nothing more than an admission ticke</b><img src="good-luck.gif" width="40px"></h2>
 
 <!--
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lonelygo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
