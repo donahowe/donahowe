@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center"><b>Wish you good luck</b><img src="good-luck.gif" width="40px"></h2>
+<h2 align="center"><img src="good-luck.gif" width="40px"><img src="good-luck.gif" width="40px"><img src="good-luck.gif" width="40px"><b>Wish you good luck</b><img src="good-luck.gif" width="40px"><img src="good-luck.gif" width="40px"><img src="good-luck.gif" width="40px"></h2>
 
 <!--
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lonelygo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
